@@ -11,8 +11,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-// const adminID = 6979520320
-const adminID = 1105080473
+const adminID = 6979520320
 
 var (
 	bot         *tgbotapi.BotAPI
